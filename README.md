@@ -13,3 +13,5 @@ to start the program run the above commands
 ### Run yarn build or npm build
 
 to build the app for production
+
+#### illustration pictures are under the demo folder
