@@ -14,4 +14,4 @@ to start the program run the above commands
 
 to build the app for production
 
-#### illustration pictures are under the demo folder
+## illustration pictures are under the demo folder
